@@ -1,6 +1,6 @@
-CREATE DATABASE IF NOT EXISTS firtuna_portfolio
+CREATE DATABASE IF NOT EXISTS hemen_portfolio
   CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-USE firtuna_portfolio;
+USE hemen_portfolio;
 
 CREATE TABLE IF NOT EXISTS messages (
   id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
